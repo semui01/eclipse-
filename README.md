@@ -12,6 +12,8 @@ A 1:16 narrated motion-graphics explainer built around the August 2026 eclipse p
 | `eclipse_seasons_9x16_VO.mp4` | 1080×1920 | narration + music |
 | `eclipse_seasons_9x16_noVO.mp4` | 1080×1920 | music only |
 
+Higher-bitrate copies of the same four files (about 86 MB each, ~9 Mbps) are in `videos/hq/`.
+
 ## Source (`source/`)
 
 - `script.txt` — narration script (`*word*` marks caption highlights)
